@@ -1,0 +1,49 @@
+﻿@page "/Register"
+@using Domain.DTOs
+@using HttpClients.ClientInterfaces
+@inject IUserService userService;
+
+<div class="card">
+    <h3>Register</h3>
+    <div class="form-group field">
+        <label>Username:</label>
+        <input type="text" @bind="username" @bind:event="oninput"/>
+        
+        <label>Password:</label>
+        <input type="password" @bind="password" @bind:event="oninput"/>
+        @if (!string.IsNullOrEmpty(resultMsg))
+        {
+            <label style="color: @color">@resultMsg</label>
+        }
+    </div>
+    <div class="button-row">
+        <button @onclick="Create" disabled="@(string.IsNullOrEmpty(username) && string.IsNullOrEmpty(password))" class="acceptbtn">Register</button>
+    </div>
+</div>
+
+@code {
+    private string username = "";
+    private string password = "";
+    private string resultMsg = "";
+    private string color = "";
+    
+    private async Task Create()
+    {
+        resultMsg = "";
+
+        try
+        {
+            await userService.Create(new UserCreationDto(username, password));
+            username = "";
+            password = "";
+            resultMsg = "Successful registration";
+            color = "green";
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            resultMsg = e.Message;
+            color = "red";
+        }
+    }
+}

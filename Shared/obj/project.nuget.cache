@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sh/Cce6LhBypbjyw09w3mML7SQL6Gis8YjmSRA/nnCJXTxNg3LPjLcDr01at2MHKrdewG0JbB+ceTHcttb9r5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkuku\\RiderProjects\\ToDOApp\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkuku\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
+    "C:\\Users\\mkuku\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.13\\microsoft.aspnetcore.metadata.7.0.13.nupkg.sha512",
+    "C:\\Users\\mkuku\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mkuku\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\mkuku\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\mkuku\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

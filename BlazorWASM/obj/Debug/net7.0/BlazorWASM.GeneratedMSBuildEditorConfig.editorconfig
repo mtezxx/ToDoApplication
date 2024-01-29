@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorWASM
+build_property.RootNamespace = BlazorWASM
+build_property.ProjectDir = C:\Users\mkuku\RiderProjects\ToDOApp\BlazorWASM\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mkuku\RiderProjects\ToDOApp\BlazorWASM
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/EditTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFRvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/CreateTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-t8mobcikcu
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/FancyCheckBox.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFuY3lDaGVja0JveC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-5b5ehbw0ir
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xm4hp2nt19
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/LoginButtons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5CdXR0b25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-7bsgaluun0
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5coiak08x2
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-hyqv80bnnt
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/ViewTodos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1RvZG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-p9dzi0ojcg
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Pages/ViewUsers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1VzZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-b8bn5keb44
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jk00ermrez
+
+[C:/Users/mkuku/RiderProjects/ToDOApp/BlazorWASM/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-69rflur3ak
